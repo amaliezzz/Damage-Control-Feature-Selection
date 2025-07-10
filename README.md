@@ -1,7 +1,9 @@
-### Mortality Prognostic Factors in Patients Undergoing Damage Control Surgery in Intensive Care Units
+# Factores pronósticos de mortalidad en pacientes con cirugía control de daño en Unidades de Cuidados Intensivos
 
 ---
 
-The prediction of **mortality prognostic factors** in patients undergoing **damage control surgery with abdominal packing** represents a significant clinical challenge. Using a limited dataset, a detailed exploratory analysis and key variable selection were performed through **machine learning models**. Five primary outcome predictors were identified. The final model, evaluated using cross-validation (**Leave-One-Out**) and data augmentation techniques (**SMOTE**), achieved an impressive **F1-score of 0.963**. Interpretability with **SHAP** confirmed the clinical relevance of the variables, supporting the model’s reliability in detecting critical prognostic indicators.
+La predicción de **factores pronósticos de mortalidad** en pacientes sometidos a cirugía de control de daño con empaquetamiento abdominal representa un **desafío clínico relevante**. A partir de un conjunto de datos limitado, se realizó un **análisis exploratorio detallado** y una **selección de variables clave** mediante modelos de aprendizaje automático.Se identificaron **cinco predictores principales de desenlace**. El modelo final, evaluado mediante **validación cruzada (Leave-One-Out)** y técnicas de aumento de datos (**SMOTE**), alcanzó un **F1-score de 0.963**. La interpretabilidad con **SHAP** corroboró la relevancia clínica de las variables , validando la **fiabilidad del modelo** para detectar indicadores pronósticos críticos.
+
+
 
 
