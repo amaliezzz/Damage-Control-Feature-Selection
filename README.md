@@ -1,4 +1,4 @@
-## Mortality Prognostic Factors in Patients Undergoing Damage Control Surgery in Intensive Care Units
+### Mortality Prognostic Factors in Patients Undergoing Damage Control Surgery in Intensive Care Units
 
 > The prediction of **mortality prognostic factors** in patients undergoing **damage control surgery with abdominal packing** represents a significant clinical challenge.
 >
